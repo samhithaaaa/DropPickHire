@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "219550439861",
+    "firebase_url": "https://drop-pick-hire.firebaseio.com",
+    "project_id": "drop-pick-hire",
+    "storage_bucket": "drop-pick-hire.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:219550439861:android:988088c0dce4da6e",
+        "android_client_info": {
+          "package_name": "com.avinash.droppickhire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "219550439861-6qmjqvii3rspedgvqu65797gt6chjmio.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.avinash.droppickhire",
+            "certificate_hash": "29eef8993e69b2254c035d51c830681ab25b3f01"
+          }
+        },
+        {
+          "client_id": "219550439861-nr6m37vnc1f7jr7dibtlv6nrs3rbifk6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXtznofz8mAM3QBWlxVDlQFEkB7TcHzrs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "219550439861-nr6m37vnc1f7jr7dibtlv6nrs3rbifk6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
